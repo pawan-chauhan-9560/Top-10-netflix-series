@@ -1,0 +1,73 @@
+const Sdata = [
+  {
+    sname: "Dark",
+    imgSrc: "https://wallpapercave.com/wp/wp4995617.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80100172",
+    rating: "8.8",
+  },
+  {
+    sname: "Sex Education",
+    imgSrc: "https://wallpapercave.com/wp/wp5152770.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80197526",
+    rating: "8.3",
+  },
+  {
+    sname: "Stranger Things",
+    imgSrc: "https://wallpapercave.com/wp/wp4431942.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80057281",
+    rating: "8.8",
+  },
+  {
+    sname: "Money Heist",
+    imgSrc: "https://wallpapercave.com/wp/wp6126886.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80192098",
+    rating: "8.4",
+  },
+  {
+    sname: "The Witcher",
+    imgSrc: "https://wallpapercave.com/wp/wp5109709.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80189685",
+    rating: "8.2",
+  },
+  {
+    sname: "Sacred Games",
+    imgSrc: "https://wallpapercave.com/wp/wp4652408.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80115328",
+    rating: "8.7",
+  },
+  {
+    sname: "The Punisher",
+    imgSrc: "https://wallpapercave.com/wp/wp2727556.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80117498",
+    rating: "8.5",
+  },
+  {
+    sname: "Narcos",
+    imgSrc: "https://wallpapercave.com/wp/wp1811392.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80025172",
+    rating: "8.8",
+  },
+  {
+    sname: "Black Mirror",
+    imgSrc: "https://wallpapercave.com/wp/wp2096849.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/70264888",
+    rating: "8.8",
+  },
+  {
+    sname: "Mind Hunter",
+    imgSrc: "https://wallpapercave.com/wp/wp2228922.jpg",
+    title: "A Netflix Orignal Series",
+    link: "https://www.netflix.com/in/title/80114855",
+    rating: "8.6",
+  },
+];
+export default Sdata;
